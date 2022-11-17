@@ -8,6 +8,5 @@ This games consist in being the first with no cards reaminig. It is a game about
 The game uses QRcodes to show the answers from the cards. </br>
 I made the design of the cards and the landing page for the answers from every card. </p>
 
-<p> In this url you can see the web design from this repository.https://qrjc.github.io/1/  <span class="emphasized">(The design is made for mobile) </span> </p>
-
+<p> In this url you can see the web design from this repository.https://qrjc.github.io/1/  (The design is made for mobile) </p>
 
